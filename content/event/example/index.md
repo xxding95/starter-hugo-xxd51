@@ -36,7 +36,7 @@ projects:
 image:
   caption: Poster presentation
   focal_point: ""
-  filename: 微信图片_20220706234315.jpg
+  filename: featured.jpg
   preview_only: true
 url_code: ""
 ---
