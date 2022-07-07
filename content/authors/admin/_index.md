@@ -1,7 +1,7 @@
 ---
 title: Xiaoxu Ding
 role: PhD Student in Rehabilitation Science
-avatar_filename: 1528288499692.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include mHealth, behavioral intervention, pediatric
   mental health, machine learning in health, natural language processing, and
   psychometrics.
@@ -13,35 +13,26 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: linkedin.com/in/xxding95
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of British Columbia
+    url: https://www.ubc.ca/
 education:
   courses:
     - course: PhD in Rehabilitation Science
       institution: University of British Columbia
-      year: ""
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2024
+    - course: MS in Global Health
+      institution: Duke University
+      year: 2021
+    - course: BSc in Kinesiology
+      institution: Pennsylvania State University
+      year: 2013
+    - course: BA in Psychology
+      institution: Pennsylvania State University
+      year: 2013
 email: ""
 superuser: true
 highlight_name: true
