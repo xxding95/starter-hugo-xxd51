@@ -15,7 +15,7 @@ title: Fidelity of Caregiver and Non-specialist Early Autism Intervention
 location: Durham, NC
 date: 2018-11-05T18:00:00.000Z
 date_end: 2018-11-06T00:00:00.000Z
-all_day: true
+all_day: false
 event: Global Health Research Showcase
 event_url: https://globalhealth.duke.edu/sites/default/files/articles/2018_showcase_prgm_final.pdf
 featured: false
@@ -34,8 +34,9 @@ tags: []
 projects:
   - example
 image:
-  caption: ""
+  caption: Poster presentation
   focal_point: ""
   filename: 微信图片_20220706234315.jpg
+  preview_only: true
 url_code: ""
 ---
